@@ -1,0 +1,27 @@
+.wrap {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-right: 15px;
+}
+
+.username {
+  font-weight: 700;
+  color: aliceblue;
+}
+
+.itemBtn {
+  display: inline-block;
+  padding: 4px 6px;
+  margin-left: 40px;
+  color: #e5e6eb;
+  font-weight: 500;
+  cursor: pointer;
+  background-color: rgb(162, 87, 12);
+  border: none;
+  border-radius: 4px;
+}
+.itemBtn:hover,
+.itemBtn:focus {
+  background-color: #303f9f;
+}

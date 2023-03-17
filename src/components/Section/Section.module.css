@@ -1,0 +1,15 @@
+.section {
+  margin-top: 25px;
+  background-color: rgb(191, 222, 184);
+  padding: 25px;
+  height: 500px;
+  border: solid 2px rgb(61, 50, 39);
+  border-right: solid 5px;
+  border-radius: 15px;
+  box-shadow: 7px 7px 20px 2px rgba(255, 107, 1, 0.6);
+}
+
+.title {
+  color: #303f9f;
+  font-size: 28px;
+}
